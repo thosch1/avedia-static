@@ -1,1 +1,3 @@
-# avedia-static
+## Welcome to AVEDIA.website. 
+
+We're looking a little different these days... perhaps we're still insecure in your browser...
